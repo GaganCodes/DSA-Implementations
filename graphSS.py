@@ -1,3 +1,6 @@
+# Implementing Adjacency List data structure for Graph, Breadth First Search, and Depth First Search
+# per Steven Skiena's book
+
 from Queue import Queue
 
 class edgeNode:
