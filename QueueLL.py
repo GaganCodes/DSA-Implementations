@@ -1,3 +1,5 @@
+# Implemented Queue with LinkedList instead of List
+
 from LinkedList import LinkedList
 
 class Queue:
