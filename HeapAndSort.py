@@ -1,3 +1,5 @@
+# Implementing Heap data structure and Heap Sort per Steven Skiena lectures
+
 class Heap:
     # Construction a minimum Heap
     def __init__(self, items = []):
