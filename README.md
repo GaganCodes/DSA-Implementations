@@ -1,6 +1,6 @@
 # DSA-Implementations
 
-Implementation of common Data Structures and Algorithms in Python3.
+Implementation of common Data Structures and Algorithms in Python3. Please note that this is not an optimized version, and involves extensive assumptions about input/output behavior. These are done for understanding only, not for integration in any existing system.
 
 Data Structures implemented:
 1. Arrays/Lists
